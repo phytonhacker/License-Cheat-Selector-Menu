@@ -20,8 +20,7 @@ A **GG HAxs** egy modern, GDI+ alapú felhasználói felülettel rendelkező ker
 ---
 
 ## 📸 Képernyőképek
-> *Helyezz el ide egy képet a futó alkalmazásról!*
-> `![Menu Preview](https://via.placeholder.com/600x400?text=GG+HAxs+UI+Preview)`
+![Menu Preview](https://imgur.com/a/ZB2L0fL)
 
 ---
 
