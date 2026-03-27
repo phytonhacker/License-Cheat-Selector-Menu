@@ -68,7 +68,7 @@ void inject::Download_Game_Hax() {
             // Update kód
         }
         else {
-            // Launch kód
+            
         }
     }
     else {
