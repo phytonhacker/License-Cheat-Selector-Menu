@@ -124,17 +124,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CheatSelector.cpp" />
+    <ClCompile Include="GG_SDK.cpp" />
     <ClCompile Include="Globals.cpp" />
     <ClCompile Include="Inject.cpp" />
+    <ClCompile Include="Injector.cpp" />
     <ClCompile Include="Inject_settings.cpp" />
     <ClCompile Include="SelectorMenu.cpp" />
     <ClCompile Include="Status.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Games.h" />
+    <ClInclude Include="GG_SDK.h" />
     <ClInclude Include="Globals.h" />
     <ClInclude Include="Haxs.h" />
     <ClInclude Include="Inject.h" />
+    <ClInclude Include="Injector.h" />
     <ClInclude Include="SelectorMenu.h" />
     <ClInclude Include="Status.h" />
   </ItemGroup>
