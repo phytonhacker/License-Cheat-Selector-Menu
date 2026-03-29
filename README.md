@@ -15,7 +15,7 @@ A **GG HAxs** egy modern, GDI+ alapú felhasználói felülettel rendelkező ker
 - [x] **Dinamikus Játéklista:** Könnyen bővíthető `Games.h` és `Haxs.h` struktúra.
 - [x] **Licenc Rendszer:** Beépített "Free" és "Premium" szintek kezelése.
 - [x] **Automatikus Letöltés:** DLL fájlok távoli szerverről való lehívása.
-- [ ] **Injector Engine:** Egyedi Injecktor Motor fejlesztése (Fejlesztés alatt).
+- [x] **Injector Engine:** Egyedi Injecktor Motor fejlesztése (Fejlesztés alatt).
 
 ---
 
